@@ -1,0 +1,17 @@
+{
+  "users": {
+    "600280511": {
+      "name": "اسم المستخدم",
+      "username": "username",
+      "referrals": 0,
+      "created_at": "2026-09-07T19:00:00.000000"
+    },
+    "7790925918": {
+      "name": "Khaldoun Algrady",
+      "username": "KhaldounNasr",
+      "referrals": 0,
+      "created_at": "2026-10-22T17:29:14.276175"
+    }
+  },
+  "total_users": 2
+}
